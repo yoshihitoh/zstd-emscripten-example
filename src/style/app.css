@@ -1,0 +1,52 @@
+.ems-example > main > .page-content {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+
+div.app-dropzone-container {
+    vertical-align: middle;
+}
+
+.app-dropzone {
+    border: dashed 2px;
+    width: 80%;
+    height: 40px;
+    padding: 60px 20px 60px 20px;
+    margin: auto auto auto auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.mdl-grid.app-file-info-grid {
+    padding: 0px;
+}
+
+
+.app-file-info {
+    min-height: 100px;
+}
+
+
+.app-file-size {
+    text-align: right;
+}
+
+
+.app-content-view {
+    margin-top: 20px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+.app-content-image {
+    width: 50%;
+    height: auto;
+    background-color: #c0c0c0;
+    padding: 1px 1px 1px 1px;
+}
+
+
+.app-content-image-container {
+}
