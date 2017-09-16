@@ -1,16 +1,17 @@
 # An example of Zstandard library on browser
 
 ## Setup
-
 ```bash
 yarn install
 ```
 
-## Run
-
-run server
+## Build
 ```bash
 yarn run webpack
+```
+
+## Run
+```bash
 cd public
 python -m SimpleHTTPServer
 ```
